@@ -13,7 +13,7 @@ Why should anyone care about this question?
 
 This project will predict the hospital billing using patient and admission data from the "HealthCare_Dataset.csv" found on Kaggle.com. The output will achieve accurate cost forecasts to in an effort to optimze hospital resource planning and insurance negetiations. These forecasts could potentially reduce financial overhead by 15-20% based on industry benchmarks today.
 
-### Reference: [Article1](https://www.chiefhealthcareexecutive.com/view/hospital-financial-woes-lagging-volume-more-claim-denials-and-debt-concerns), [Article2](https://www.oliverwyman.com/our-expertise/perspectives/health/2024/april/5-ways-hospitals-can-cut-costs-achieve-long-term-stability.html#:~:text=The%20aggregate%20impact%20of%20these,of%20the%20care%20delivery%20chassis.)
+### BenchMark Reference: [Article1](https://www.chiefhealthcareexecutive.com/view/hospital-financial-woes-lagging-volume-more-claim-denials-and-debt-concerns), [Article2](https://www.oliverwyman.com/our-expertise/perspectives/health/2024/april/5-ways-hospitals-can-cut-costs-achieve-long-term-stability.html#:~:text=The%20aggregate%20impact%20of%20these,of%20the%20care%20delivery%20chassis.)
 
 #### Research Question
 What are you trying to answer?
