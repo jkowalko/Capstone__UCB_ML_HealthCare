@@ -102,10 +102,10 @@ What did your research find?
 Based on the conducted analysis and model evaluation:
 
 *   Among the evaluated models, the **Bagging Regressor** and **Random Forest Regressor** demonstrated superior performance in terms of prediction accuracy on the test set, exhibiting the lowest MSE and RMSE values.
-*   The overall predictive power of the models, as indicated by the R2scores, was relatively low across the board. This suggests that while the models can make predictions, they explain only a limited portion of the variability in billing amounts based on the current feature set.
-*   Feature importance analysis consistently highlighted **Room Number, Length of Stay, and Age** as the most significant predictors within the tree-based models, indicating their stronger influence on billing amount predictions compared to other features.
+*   The overall predictive power of the models, as indicated by the R2scores, was relatively low across the board. This suggests that while the models can make predictions, they explain only a limited portion in the variety found in billing amounts based on the current feature set.
+*   Feature importance analysis (Defined in the EXTRA steps) consistently highlighted **Room Number, Length of Stay, and Age** as the most significant predictors within the tree-based models, indicating their strong influence on billing amount predictions compared to the other features.
 
-**Recommendation:** It is recommended to prioritize the **Bagging Regressor** and **Random Forest Regressor** for deployment or further refinement due to their better predictive performance observed during evaluation. I would recommend utilizing both models could provide a more robust and reliable forecasting mechanism.
+**Recommendation:** I recommended to prioritize the **Bagging Regressor** and **Random Forest Regressor** for deployment or further refinement due to their better predictive performance observed during evaluation. I would recommend utilizing both models could provide a more robust and reliable forecasting mechanism.
 
 
 #### Next steps
@@ -113,10 +113,10 @@ Based on the conducted analysis and model evaluation:
 
 To enhance the model's predictive capabilities and better address the project's objectives, consider the following:
 
-*   **Advanced Feature Engineering:** Investigate potential interaction terms or non-linear transformations of existing features, particularly those identified as highly important.
-*   **Integration of Additional Data Sources:** Explore incorporating other relevant patient or admission-specific data (e.g., procedure codes, diagnosis severity scores, resource utilization) if available.
-*   **Evaluation of Alternative Modeling Techniques:** Explore other regression algorithms or advanced ensemble methods that may be better suited to capture complex data patterns.
-*   **In-depth Residual Analysis:** Conduct a more granular analysis of the residual plots to understand specific scenarios or data subsets where the models perform poorly, which could inform further data collection or feature engineering efforts.
+*   **More Feature Engineering:** Investigate potential interaction terms or non-linear transformations of existing features identified as highly important.
+*   **Integration of Additional Data Sources:** Explore adding other relevant patient or admissions data  like procedure codes, diagnosis severity scores, resource utilization
+*   **Evaluation of Other Modeling Techniques:** Explore other regression algorithms or ensemble methods that may be better to capture complex data patterns.
+*   **In-depth Residual Analysis:** Conduct a more granular analysis of the residual plots to understand specific scenarios or data subsets where the models perform poorly, which could further data collection or feature engineering.
 
 This analysis provides a predictive model for hospital billing amounts, identifying key influencing factors and highlighting modeling approaches for future potential optimization.
 
