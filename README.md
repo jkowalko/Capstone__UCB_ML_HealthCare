@@ -90,7 +90,7 @@ The analysis followed a standard CRISP-DM framework, giving the following stages
     *   Each selected model was trained on the complete training dataset using its best-determined hyperparameters.
 
 8.  **Model Evaluation and Analysis:**
-    *   Model performance was assessed on the held-out test set using standard regression metrics: Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R²).
+    *   Model performance was assessed on the held-out test set using standard regression metrics: Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared R2.
     *   Visual diagnostics, including Actual vs. Predicted and Residual plots, were generated for qualitative performance assessment and error pattern identification.
     *   Feature importance scores were analyzed for the ensemble tree-based models to identify the most influential predictors.
 
