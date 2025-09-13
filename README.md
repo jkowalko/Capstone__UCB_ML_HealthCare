@@ -20,7 +20,6 @@ Research Question: How can patient profiles and admission details be used to acc
 
 This project will focus on predicting the hospital billing by using patient and admission data from the "HealthCare_Dataset.csv" found on Kaggle.com. The output will achieve accurate cost forecasts in an effort to optimze hospital resource planning and insurance negetiations. These forecasts could potentially reduce financial overhead by 15-20% based on industry benchmarks today.
 
-Reference Benchmarks: [LINK1](https://https://www.oliverwyman.com/our-expertise/perspectives/health/2024/april/5-ways-hospitals-can-cut-costs-achieve-long-term-stability.html?utm_source=chatgpt.com) [LINK2](https://https://www.tandfonline.com/doi/full/10.1080/09537287.2024.2437040?utm_source=chatgpt.com#abstract)
 
 #### Data Sources
 What data will you use to answer you question?
