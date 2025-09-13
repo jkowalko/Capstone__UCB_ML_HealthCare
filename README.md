@@ -102,7 +102,7 @@ What did your research find?
 Based on the conducted analysis and model evaluation:
 
 *   Among the evaluated models, the **Bagging Regressor** and **Random Forest Regressor** demonstrated superior performance in terms of prediction accuracy on the test set, exhibiting the lowest MSE and RMSE values.
-*   The overall predictive power of the models, as indicated by the R² scores, was relatively low across the board. This suggests that while the models can make predictions, they explain only a limited portion of the variability in billing amounts based on the current feature set.
+*   The overall predictive power of the models, as indicated by the R2scores, was relatively low across the board. This suggests that while the models can make predictions, they explain only a limited portion of the variability in billing amounts based on the current feature set.
 *   Feature importance analysis consistently highlighted **Room Number, Length of Stay, and Age** as the most significant predictors within the tree-based models, indicating their stronger influence on billing amount predictions compared to other features.
 
 **Recommendation:** It is recommended to prioritize the **Bagging Regressor** and **Random Forest Regressor** for deployment or further refinement due to their better predictive performance observed during evaluation. I would recommend utilizing both models could provide a more robust and reliable forecasting mechanism.
