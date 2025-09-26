@@ -87,6 +87,7 @@ The analysis followed a standard CRISP-DM framework, giving the following stages
 
 6.  **Model Selection and Hyperparameter Optimization:**
     *   A suite of regression models was selected, including linear models (Linear Regression, Ridge, Lasso) and tree-based/ensemble methods (Decision Tree, KNN, Random Forest, Bagging, Gradient Boosting, XGBoost).
+    *   OPTIONAL ANN : Simple and Complex Model Kera Tensor Flow
     *   Hyperparameter tuning was executed using `GridSearchCV` with 5-fold cross-validation, employing negative mean squared error as the scoring metric to identify optimal model configurations.
 
 7.  **Model Training:**
@@ -110,6 +111,7 @@ Based on the conducted analysis and model evaluation:
 
 **Recommendation:** I recommended to prioritize the **Bagging Regressor** and **Random Forest Regressor** for deployment or further refinement due to their better predictive performance observed during evaluation. I would recommend utilizing both models could provide a more robust and reliable forecasting mechanism.
 
+OPTIONAL ANN Analysis: Complex model was prone to overfitting and is not recommended. Despite performing better, the Simple model still performed poorly compared to both the Random Forest and Bagging. 
 
 #### Next steps
 **Areas for Future Step Exploration:**
