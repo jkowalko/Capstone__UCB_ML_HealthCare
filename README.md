@@ -129,4 +129,5 @@ This analysis provides a predictive model for hospital billing amounts, identify
 #### Outline of project
 
 - [Capstone_HealthCare_Billing_Prediction_2025](https://github.com/jkowalko/Capstone__UCB_ML_HealthCare/blob/main/Capstone_HealthCare_Billing_Prediction_2025.ipynb)
+- [Optional Artificial Neural Network Model Prediction](https://github.com/jkowalko/Capstone__UCB_ML_HealthCare/blob/main/Artificial_Neural_Network_Model_HealthCareBilling.ipynb)
 
