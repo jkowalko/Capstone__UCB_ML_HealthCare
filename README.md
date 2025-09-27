@@ -113,6 +113,11 @@ Based on the conducted analysis and model evaluation:
 
 OPTIONAL ANN Analysis: Complex model was prone to overfitting and is not recommended. Despite performing better, the Simple model still performed poorly compared to both the Random Forest and Bagging. 
 
+### Model Comparison
+
+![Model Comparison](ModelComparisonLoss_MSE.png)
+
+
 #### Next steps
 **Areas for Future Step Exploration:**
 
