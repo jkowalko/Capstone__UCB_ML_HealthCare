@@ -4,7 +4,7 @@
 ### Project Title
 Capstone Project: HealthCare Billing Amount Prediction 
 
-![Model Comparison](BillingPic.png)
+![Bills](BillingPic.png)
 
 **Author**
 John Kowalkowski , MBA 
