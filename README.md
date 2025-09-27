@@ -116,10 +116,9 @@ OPTIONAL ANN Analysis: Complex model was prone to overfitting and is not recomme
 
 ### Model Comparison
 ### Interpretation
-
 The further a model appears **to the left** on the comparison chart, the more **optimal** it is for solving the prediction problem.  
 
-In this case, as noted above, **Random Forest** and **Bagging** emerge as the most suitable modeling choices.  
+In this case, as noted above, **Random Forest** and **Bagging** emerge as the most suitable modeling choices.
 
 ![Model Comparison](ModelComparisonLoss_MSE.png)
 
