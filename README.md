@@ -12,7 +12,7 @@ John Kowalkowski , MBA
 #### Executive summary
 
 #### Rationale
-Why is this question important ?
+Why is this project important to answer ?
 
 This project will predict the hospital billing using patient and admission data from the "HealthCare_Dataset.csv" found on Kaggle.com. The output will achieve accurate cost forecasts to in an effort to optimze hospital resource planning and insurance negetiations. These forecasts could potentially reduce financial overhead by 15-20% based on industry benchmarks today.
 
