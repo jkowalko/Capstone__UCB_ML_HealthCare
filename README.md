@@ -115,7 +115,11 @@ Based on the conducted analysis and model evaluation:
 OPTIONAL ANN Analysis: Complex model was prone to overfitting and is not recommended. Despite performing better, the Simple model still performed poorly compared to both the Random Forest and Bagging. 
 
 ### Model Comparison
-**Interpretation: The more to the left, the optimal the model to solve the prediction. In this case, as stated above Randome Forest and Bagging would be ideal choices on modeling.
+### Interpretation
+
+The further a model appears **to the left** on the comparison chart, the more **optimal** it is for solving the prediction problem.  
+
+In this case, as noted above, **Random Forest** and **Bagging** emerge as the most suitable modeling choices.  
 
 ![Model Comparison](ModelComparisonLoss_MSE.png)
 
