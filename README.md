@@ -145,3 +145,5 @@ This project consists of **two Jupyter notebooks**:
 - [Capstone_HealthCare_Billing_Prediction_2025](https://github.com/jkowalko/Capstone__UCB_ML_HealthCare/blob/main/Capstone_HealthCare_Billing_Prediction_2025.ipynb)
 - [Optional Artificial Neural Network Model Prediction](https://github.com/jkowalko/Capstone__UCB_ML_HealthCare/blob/main/Artificial_Neural_Network_Model_HealthCareBilling.ipynb)
 
+##### Contact and Further Information
+jkowalkow@gmail.com
