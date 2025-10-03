@@ -1,8 +1,7 @@
 # Capstone__UCB_ML_HealthCare
 ### *Final Capstone Project HealthCare , UC Berkeley ML Course 2025*
 
-### Project Title
-Capstone Project: HealthCare Billing Amount Prediction 
+### Title: Capstone Project: HealthCare Billing Amount Prediction 
 
 ![Bills](BillingPic.png)
 
