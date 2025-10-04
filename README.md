@@ -1,7 +1,5 @@
-# Capstone__UCB_ML_HealthCare
-### *Final Capstone Project HealthCare , UC Berkeley ML Course 2025*
-
 ### Title: Capstone Project: HealthCare Billing Amount Prediction 
+#Description: UC Berkeley ML Course 6-Month Course March-October 2025
 
 ![Bills](BillingPic.png)
 
