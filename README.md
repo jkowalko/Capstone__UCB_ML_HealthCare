@@ -141,7 +141,7 @@ This project consists of **two Jupyter notebooks**:
 
 1. **Capstone HealthCare Billing Prediction 2205** – focuses on traditional machine learning regression models.  
 2. **Optional Artificial Neural Network Model Prediction** – explores neural network approaches, including both a **simple** and a **complex ANN model**.
-3. **Business Leaders Presentation** - PPT presentation to the business and forward looking planning including Speaker Notes
+3. **Business Leaders Presentation** - PPT presentation to the business and planning, includes Speaker Notes
 4. **Capstone Business Final Report** - Distributable Final Business Report 
 
 - [Capstone_HealthCare_Billing_Prediction_2025](https://github.com/jkowalko/Capstone__UCB_ML_HealthCare/blob/main/Capstone_HealthCare_Billing_Prediction_2025.ipynb)
