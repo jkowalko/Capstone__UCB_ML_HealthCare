@@ -149,5 +149,5 @@ This project consists of **two Jupyter notebooks**:
 - [Business Leader Presentation](https://github.com/jkowalko/Capstone__UCB_ML_HealthCare/blob/main/Presentation_Slide_SpeakerNotes_Hospital_Billing_Prediction_John%20Kowalkowski_2025.pdf)
 - [Capstone Business Final Report](https://github.com/jkowalko/Capstone__UCB_ML_HealthCare/blob/main/JK_Capstone%20Project_Final%20Report_Hospital_Billings%20Amount%20Prediction.pdf)
 
-##### Contact and Further Information
+##### Contact and Further Information 
 jkowalkow@gmail.com
