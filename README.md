@@ -9,7 +9,7 @@
 John Kowalkowski , MBA 
 
 #### Executive summary
-FINAL REPORT [JK_Capstone Project_Final Report_Hospital_Billings Amount Prediction PDF](https://github.com/jkowalko/Capstone__UCB_ML_HealthCare/blob/main/JK_Capstone%20Project_Final%20Report_Hospital_Billings%20Amount%20Prediction.pdf)
+FINAL Business REPORT [Project Final Report Hospital Billings Amount Prediction](https://github.com/jkowalko/Capstone__UCB_ML_HealthCare/blob/main/Project_Final%20Report_Hospital_Billings%20Amount%20Prediction.pdf)
 
 #### Rationale
 Why is this project important to answer ?
