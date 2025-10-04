@@ -144,10 +144,10 @@ This project consists of **two Jupyter notebooks**:
 3. **Business Leaders Presentation** - PPT presentation to the business and planning, includes Speaker Notes
 4. **Project Final Business Report** - Distributable Final Business Report 
 
-- [Model_HealthCare_Billing_Prediction_2025](https://github.com/jkowalko/Capstone__UCB_ML_HealthCare/blob/main/Model_HealthCare_Billing_Prediction_2025.ipynb)
-- [Optional Model Artificial Neural Network Model Prediction](https://github.com/jkowalko/Capstone__UCB_ML_HealthCare/blob/main/Model_Artificial_Neural_Network_HealthCare_Billing_Prediction.ipynb)
-- [Business Leader Presentation PPT](https://github.com/jkowalko/Capstone__UCB_ML_HealthCare/blob/main/Presentation_Slide_SpeakerNotes_Hospital_Billing_Prediction_John%20Kowalkowski_2025.pdf)
-- [Project Final Business Report](https://github.com/jkowalko/Capstone__UCB_ML_HealthCare/blob/main/Project_Final%20Report_Hospital_Billings%20Amount%20Prediction.pdf)
+- [Model HealthCare Billing Prediction 2025](https://github.com/jkowalko/Capstone__UCB_ML_HealthCare/blob/main/Model_HealthCare_Billing_Prediction_2025.ipynb)
+- [Model (Optional) Artificial Neural Network Model Prediction 2025](https://github.com/jkowalko/Capstone__UCB_ML_HealthCare/blob/main/Model_Artificial_Neural_Network_HealthCare_Billing_Prediction.ipynb)
+- [Business Leader Presentation PPT 2025](https://github.com/jkowalko/Capstone__UCB_ML_HealthCare/blob/main/Presentation_Slide_SpeakerNotes_Hospital_Billing_Prediction_John%20Kowalkowski_2025.pdf)
+- [Project Final Business Report 2025](https://github.com/jkowalko/Capstone__UCB_ML_HealthCare/blob/main/Project_Final%20Report_Hospital_Billings%20Amount%20Prediction.pdf)
 
 ##### Contact and Further Information 
 jkowalkow@gmail.com
