@@ -139,13 +139,13 @@ This analysis provides a predictive model for hospital billing amounts, identify
 
 This project consists of **two Jupyter notebooks**:  
 
-1. **Capstone HealthCare Billing Prediction 2205** – focuses on traditional machine learning regression models.  
-2. **Optional Artificial Neural Network Model Prediction** – explores neural network approaches, including both a **simple** and a **complex ANN model**.
+1. **Model HealthCare Billing Prediction 2205** – focuses on traditional machine learning regression models.  
+2. **Optional Model Artificial Neural Network Model Prediction** – explores neural network approaches, including both a **simple** and a **complex ANN model**.
 3. **Business Leaders Presentation** - PPT presentation to the business and planning, includes Speaker Notes
 4. **Capstone Business Final Report** - Distributable Final Business Report 
 
-- [Capstone_HealthCare_Billing_Prediction_2025](https://github.com/jkowalko/Capstone__UCB_ML_HealthCare/blob/main/Capstone_HealthCare_Billing_Prediction_2025.ipynb)
-- [Optional Artificial Neural Network Model Prediction](https://github.com/jkowalko/Capstone__UCB_ML_HealthCare/blob/main/Artificial_Neural_Network_Model_HealthCareBilling.ipynb)
+- [Model_HealthCare_Billing_Prediction_2025](https://github.com/jkowalko/Capstone__UCB_ML_HealthCare/blob/main/Model_HealthCare_Billing_Prediction_2025.ipynb)
+- [Optional Model Artificial Neural Network Model Prediction](https://github.com/jkowalko/Capstone__UCB_ML_HealthCare/blob/main/Artificial_Neural_Network_Model_HealthCareBilling.ipynb)
 - [Business Leader Presentation](https://github.com/jkowalko/Capstone__UCB_ML_HealthCare/blob/main/Presentation_Slide_SpeakerNotes_Hospital_Billing_Prediction_John%20Kowalkowski_2025.pdf)
 - [Capstone Business Final Report](https://github.com/jkowalko/Capstone__UCB_ML_HealthCare/blob/main/JK_Capstone%20Project_Final%20Report_Hospital_Billings%20Amount%20Prediction.pdf)
 
