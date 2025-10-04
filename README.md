@@ -1,5 +1,5 @@
 ### Title: Capstone Project: HealthCare Billing Amount Prediction 
-Description: UC Berkeley ML Course 6-Month Course March-October 2025
+Description: UC Berkeley ML Course 6-Month 2025
 
 ![Bills](BillingPic.png)
 
