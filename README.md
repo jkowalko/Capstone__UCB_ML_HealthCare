@@ -1,4 +1,4 @@
-### Title: Capstone Project: HealthCare Billing Amount Prediction 
+### Capstone: HealthCare Billing Amount Prediction 
 Description: UC Berkeley ML Course 6-Month 2025
 
 ![Bills](BillingPic.png)
